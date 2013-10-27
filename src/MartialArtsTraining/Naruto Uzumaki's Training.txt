@@ -240,6 +240,8 @@ Sasuke Uchiha 
 Orochimaru
 Sora
 Fuka
+Gaara of the Desert 
+Minato Namikaze 
 
 Initial Jinchūriki Form Fights
 Haku Yuki 
@@ -262,7 +264,7 @@ Kazuma 
 Fuka
 Yugao Uzuki
 Asuma Sarutobi 
-Tsunade 
+Tsunade Senju
 Naruto Uzumaki 
 Captain Yamato
 
@@ -302,17 +304,27 @@ Naruto Uzumaki(Two-Tailed Form) 
 Naruto Uzumaki(Three-Tailed Form)
 Sora(Three-Tailed Form)
 Naruto Uzumaki(Three-Tailed Form) Shadow Clone 
-Captain Yamato
+Captain Tenzin Yamato
 
 Four-Tailed Fox Transformation Fights
 Master Jiraiya 
 Orochimaru
 Sakura Haruno
-Captain Yamato 
+Captain Tenzin Yamato 
 Naruto Uzumaki(Three-Tailed Form)
+
+Five-Tailed Fox Transformation Fights
+Pain
+
+Six-Tailed Fox Transformation Fights
+Pain
+
+Seven-Tailed Fox Transformation Fights
+Pain
 
 Eight-Tailed Fox Transformation Fights
 Pain
+Minato Namikaze 
 
 Killed:
 Toki 
