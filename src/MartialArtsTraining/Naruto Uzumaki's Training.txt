@@ -93,6 +93,7 @@ Crimson Chakra
 Giant Rasengan 
 Nine-Tailed Fox Sonic Roar
 Ninja Art: Summoning Jutsu: Gamabunta 
+Twin Rasengan
 
 Nine Tailed Fox Chakra 1 Tail Mode
 Chakra Arms 
@@ -108,6 +109,13 @@ Nine Tailed Fox Chakra 4 Tail Mode
 Demon Fox Piledriver 
 Nine-Tailed Fox Twister
 Tailed-Beast Bomb 
+
+Sage Mode
+Frog Kumite
+Frog Strike
+Massive Rasengan
+Sage Art: Giant Rasengan
+Sage Jutsu: Rasengan Barrage
 
 Sensei's 
 Iruka Umino 
@@ -128,6 +136,9 @@ Sexy Jutsu:Transform 
 Multi Shadow Clone Jutsu 
 Harem Jutsu 
 New Sexy Jutsu 
+Rasengan
+Giant Rasengan
+Shadow Clone Jutsu
 
 Superpowers
 Blue Chakra
@@ -176,6 +187,7 @@ Medium 
 Nails grow Longer 
 Negative White Chakra
 Positive Black Chakra 
+Possession 
 Pupils Become Slitted
 Pure Evil 
 Red Aura 
@@ -325,6 +337,18 @@ Pain
 Eight-Tailed Fox Transformation Fights
 Pain
 Minato Namikaze 
+
+Nine Tailed Fox Fights
+Menma Uzumaki 
+
+Sage Mode Fights
+Pain
+Konohamaru Sarutobi 
+Satori
+
+Nine-Tails Chakra Mode Fights
+Fourth Raikage A
+Tobi
 
 Killed:
 Toki 
